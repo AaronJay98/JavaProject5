@@ -1,6 +1,8 @@
+import edu.sjsu.macaldo.aaronjay.SodaCan;
+
 import java.util.Scanner;
 
-public class E4_23 {
+public class SodaCanTester {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         SodaCan usersCan;

@@ -1,6 +1,8 @@
+import edu.sjsu.macaldo.aaronjay.ComboLock;
+
 import java.util.Scanner;
 
-public class P8_1 {
+public class ComboLockTester {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         int key1, key2, key3;
