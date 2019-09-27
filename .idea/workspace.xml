@@ -3,13 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="324701ae-fb76-4aa4-84a1-a35522a7a611" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/ComboLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/ComboLock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComboLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComboLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E4_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IceCreamConeTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E4_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SodaCanTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IceCreamCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IceCreamCone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P8_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComboLockTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SodaCan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SodaCan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/ComboLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/E4_22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/E4_23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/IceCreamCone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/P8_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment5/SodaCan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComboLockTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComboLockTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/sjsu/macaldo/aaronjay/ComboLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sjsu/macaldo/aaronjay/ComboLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/sjsu/macaldo/aaronjay/IceCreamCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sjsu/macaldo/aaronjay/IceCreamCone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/sjsu/macaldo/aaronjay/SodaCan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/sjsu/macaldo/aaronjay/SodaCan.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +41,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aaron\IdeaProjects\programmingassignment5\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComboLockTester">
+  <component name="RunManager">
     <configuration name="ComboLockTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComboLockTester" />
       <module name="ProgrammingAssignment5" />
@@ -99,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569095870968</updated>
       <workItem from="1569095874248" duration="13045000" />
-      <workItem from="1569525051884" duration="4664000" />
+      <workItem from="1569525051884" duration="9684000" />
     </task>
     <servers />
   </component>
