@@ -50,7 +50,7 @@ public class ComboLockTester {
                 case('x'):
                     usersLock.reset();
                     break;
-                default:1
+                default:
                     System.out.println("Unknown error has occurred");
             }
 
